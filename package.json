@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "typescript": "^5.5.3"
+  },
+  "name": "real-time-chat",
+  "description": "Build a simple chat applications using raw websocktes in node.js that supports the following features -",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
